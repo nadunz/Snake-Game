@@ -1,5 +1,5 @@
 # Snake-Game
-Simple playable snake game
+```Simple playable snake game
 
 ## Requirements
   - jdk 1.8
