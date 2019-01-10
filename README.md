@@ -2,7 +2,7 @@
 Simple playable snake game
 
 ## Requirements
-  - jdk 1.8
+  -- jdk 1.8
 
 # Compile & Run
 $ `javac Game.java`
