@@ -3,7 +3,7 @@ Simple playable snake game
 
 ## Gameplay
 your objective is to devour any red foods without running into your tail
-    use arrow keys to navigate
+  - use arrow keys to navigate
     
 ## Requirements
   - jdk 1.8
