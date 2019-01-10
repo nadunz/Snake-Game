@@ -9,7 +9,10 @@ Simple playable snake game
   - $ `java Game`
 
 ## screnshots
-![image](https://user-images.githubusercontent.com/34955038/36860409-2b4624a2-1da7-11e8-9bb1-6f66f438d313.JPG)
+![sh1](https://user-images.githubusercontent.com/34955038/50947438-5e50a600-14c4-11e9-86ca-59bed0067412.PNG)
+
+![sh2](https://user-images.githubusercontent.com/34955038/50947454-758f9380-14c4-11e9-8c6d-090b3dbd8729.PNG)
+
 
 
 
